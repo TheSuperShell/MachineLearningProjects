@@ -1,2 +1,2 @@
 # MachineLearningProjects
-My Machine Learning Projects
+Мои проекты по машинному обучению.
