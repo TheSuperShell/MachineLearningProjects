@@ -32,7 +32,7 @@
 Эффективность обогащения рассчитывается по формуле
 
 $$
-Recovery = \frac{C (F - T)}{F ( C - T)} * 100\%
+Recovery = \frac{C (F - T)}{F ( C - T)}
 $$
 
 где:
@@ -53,7 +53,7 @@ $$
 Итоговая метрика оценки качества:
 
 $$
-sMAPE = 25\% \times sMAPE(rougher) + 75\% \times sMAPE(final)
+sMAPE = 0.25 \times sMAPE(rougher) + 0.75 \times sMAPE(final)
 $$
 
 ---
